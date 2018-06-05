@@ -1,2 +1,3 @@
 # sca_pi
-Repository for pi class
+Repository for Summer Computing Academy pi Class
+
